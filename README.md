@@ -25,9 +25,7 @@ To accurately classify SMS messages as **spam** or **ham** using:
 - Tokenization
 - Stopword removal
 - Lemmatization
-- Vectorization using:
-  - **Bag-of-Words**
-  - **TF-IDF**
+- Vectorization using: **TF-IDF**
 
 ---
 
