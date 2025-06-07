@@ -32,8 +32,16 @@ To accurately classify SMS messages as **spam** or **ham** using:
 ## 🧠 Models Used
 
 1. **Logistic Regression**
+
+![log-reg](images/image.png)
+
 2. **Random Forest**
+
+![random-forest](images/image1.png)
+
 3. **XGBoost Classifier**
+
+![xg-boost](image2.png)
 
 ---
 
@@ -54,6 +62,8 @@ To accurately classify SMS messages as **spam** or **ham** using:
 | XGBoost           | 97%     | 0.90             | 0.91          | 0.90      |
 
 > ✅ Logistic Regression gave the best trade-off between precision and recall.
+
+![comparison](images/image3.png)
 
 ---
 
