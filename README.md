@@ -41,7 +41,7 @@ To accurately classify SMS messages as **spam** or **ham** using:
 
 3. **XGBoost Classifier**
 
-![xg-boost](image2.png)
+![xg-boost](images/image2.png)
 
 ---
 
