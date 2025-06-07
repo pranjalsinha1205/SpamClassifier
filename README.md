@@ -64,8 +64,3 @@ To accurately classify SMS messages as **spam** or **ham** using:
 > ✅ Logistic Regression gave the best trade-off between precision and recall.
 
 ![comparison](images/image3.png)
-
----
-
-## 📁 File Structure
-
